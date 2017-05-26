@@ -1,0 +1,47 @@
+#sidebar {
+	width: 300px;
+    float:left; /* add this */
+    
+}
+
+#main {
+	 	padding-top: 50px;
+    overflow: hidden; 
+}
+#movieTitle {
+	 text-align: center;
+	 font-weight: bolder;
+	 margin-bottom: 30px;
+    font-size: 200%;
+}
+#movieOverview{
+	font-weight: bolder;
+	 margin-bottom: 10px;
+	 font-size: 150%;	f
+}
+#movieBody {
+	    font-size: 150%;
+
+}
+#movieRelease{
+	font-weight: bolder;
+	 margin-bottom: 10px;
+	 margin-top: 15px;
+	 font-size: 150%;	f
+}
+#movieGenre{
+	font-weight: bolder;
+	 margin-bottom: 5px;
+	 margin-top:15px;
+	 font-size: 150%;	f
+}
+#movieGenreBody{
+	font-weight: bolder;
+	margin-left: 5px;
+	 margin-bottom: 10px;
+	 font-size: 150%;	f
+}
+
+
+
+
